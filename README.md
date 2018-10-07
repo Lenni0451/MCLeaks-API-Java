@@ -6,7 +6,7 @@ I am not working together with the team behind [MCLeaks](https://mcleaks.net/).
 I am only developing this API.
 
 # How it works
-To redeem an alto token (e.g 'GFUGuKqxCDHjdNAz') to get the session ID and the account name back use:
+To redeem an alt token (e.g 'GFUGuKqxCDHjdNAz') to get the session ID and the account name back use:
 ```java
 MCLeaksAccount account = MCLeaksAPIConnection.getAccountFromToken("GFUGuKqxCDHjdNAz");
 ```
